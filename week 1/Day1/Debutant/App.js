@@ -100,14 +100,7 @@
 // const lessThanAvrageNotes = notes.reduce((occ,n) => n < moyenneNotes ? occ++ : occ);
 // console.log(lessThanAvrageNotes);
 
-if(n < moyenneNotes){
-    return occ++
-}else{
-    return occ
-}
-
 //Exercice 7
 const scores = [45, 12, 78, 3, 99, 56, 23, 67];
 const noms = ['Zoe','Alice','Marc','Bob','Yasmine','Chloe'];
 //1
-const 
